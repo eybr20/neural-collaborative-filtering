@@ -1,0 +1,9 @@
+# Course data (not redistributed)
+datasets/
+*.npy
+
+# Logs and system files
+*.log
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
